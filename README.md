@@ -48,6 +48,6 @@
 
 <p align="center">
 <a href="https://github.com/f3rnandavi3ira/f3rnandavi3ira"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3rnandavi3ira&layout=anuraghazracompact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3rnandavi3ira=anuraghazra&layout=compact&theme=radical" />
 </a>
 </p>
